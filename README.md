@@ -1,7 +1,9 @@
 # Markdown Cheat Sheet
 
 ### Links
-[Link](https://www.linkedin.com/feed/)
+[Example.com](https://www.example.com)
+
+<a href="https://www.example.com" target="_blank">Visit Example</a>
 
 
 
