@@ -1,5 +1,12 @@
 # Markdown Cheat Sheet
 
+### Links
+[Link](https://www.linkedin.com/feed/)
+
+
+
+### Notes/Tips/Warnings
+
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
